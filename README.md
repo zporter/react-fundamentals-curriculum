@@ -98,4 +98,4 @@ The final /detail route should now look like this.
 ## Congrats!
 If you got through this, great job. Take a look at my code and compare to what we did differently.
 
-<img src='http://www.reactjsprogram.com/images/tyler-mcginnis.png' /> Suggestion or just want to say thanks? You can find me on Twitter at [@tylermcginnis33](http://twitter.com/tylermcginnis33)
+<img src='http://www.reactjsprogram.com/images/tyler-mcginnis.png' width="100px" align="right"/> Suggestion or just want to say thanks? You can find me on Twitter at [@tylermcginnis33](http://twitter.com/tylermcginnis33)
