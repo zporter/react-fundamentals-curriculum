@@ -6,7 +6,7 @@ var GetCityContainer = React.createClass({
   contextTypes: {
     router: React.PropTypes.object.isRequired
   },
-  getDefaultProps () {
+  getDefaultProps: function () {
     return {
       direction: 'column'
     }
@@ -14,7 +14,7 @@ var GetCityContainer = React.createClass({
   propTypes: {
     direction: PropTypes.string
   },
-  getInitialState () {
+  getInitialState: function () {
     return {
       city: ''
     }
