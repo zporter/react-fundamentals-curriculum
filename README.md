@@ -76,3 +76,12 @@ Before we had our API request when the user clicked on the "Get Weather" button.
  * As of right now, my app looks like this
 
 <img src="http://www.reactjsprogram.com/images/reactfundamentals-step8.png" width="400">
+
+## Step 9: Make each day clickable
+Now we want to make it so you can click on a specific day and we'll be taken to a new route which displays that day's weather information more in depth.
+ * Create a new /detail/SOME-CITY route
+ * Create the component(s) that are going to be active when that route is matched.
+ * Add a click handler to every day that when clicked, will go to the new /detail/SOME-CITY route passing through that specific days data through as state.
+ * At this point you should have a new route that looks something like this
+
+<img src="http://www.reactjsprogram.com/images/reactfundamentals-step9.png" width="400">
