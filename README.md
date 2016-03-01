@@ -85,3 +85,17 @@ Now we want to make it so you can click on a specific day and we'll be taken to 
  * At this point you should have a new route that looks something like this
 
 <img src="http://www.reactjsprogram.com/images/reactfundamentals-step9.png" width="400">
+
+## Step 10: Finish the UI for the /detail route
+At this point the /detail route should have all the data it needs to render.
+
+ * Finish the app by finishin the UI for the /detail route.
+
+The final /detail route should now look like this.
+
+<img src="http://www.reactjsprogram.com/images/reactfundamentals-step10.png" width="400">
+
+## Congrats!
+If you got through this, great job. Take a look at my code and compare to what we did differently.
+
+Suggestion or just want to say thanks? You can find me on Twitter at [@tylermcginnis33](http://twitter.com/tylermcginnis33)
