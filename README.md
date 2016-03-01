@@ -3,6 +3,8 @@
 React.js Fundamentals Curriculum
 ========
 
+####For more information on React.js Program, [click here](http://reactjsprogram.com)
+
 ##Objective
 Build a functioning Weather app using the [Open Weather API](http://openweathermap.org/api).
 
