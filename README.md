@@ -54,3 +54,11 @@ In this step we're going to wite up the button to our weather API, though we'll 
  * Tie up the "Get Weather" button to be able to grab the city's current weather and log it to the console.
  * Once the previous step is working, also create the functionality for the 5 day forecast request and test is by hooking it up to the "Get Weather" button. Once it works, change it back to get the current weather.
  * If you get stuck with the API check out the "step5" branch. My code is located under /app/helpers/api.js
+
+## Step 6: New /forecast route
+ * Add a new Route to your route config of 'forecast/:city'.
+ * Create the component(s) that will become active when the user goes to /forecast/SOME-CITY
+ * Now make it so instead of calling the weather API when we click on the "Get Weather" button, go to this /forecast route we just created.
+ * As of right now, my app looks like this
+
+<img src="http://www.reactjsprogram.com/images/reactfundamentals-step6.png" width="400">
